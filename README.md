@@ -4,9 +4,13 @@ In this reopsitori, you will learn how to install and configure Lighttpd on a Fr
 ## System specifications
 
 OS: FreeBSD 13.2 Stable
+
 Hostname: ns5
+
 IP Address: 192.168.5.2
+
 Domain: datainchi.com
+
 Lighttpd version: lighttpd/1.4.67 (ssl) - a light and fast webserver
 
 ### Installation
